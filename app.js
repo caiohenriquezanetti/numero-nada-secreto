@@ -1,5 +1,5 @@
 alert ("OLÁ RATAZANAS DO ESGOTO");
-let numeroMaximo = 5000;
+let numeroMaximo = 3500;
 let numeroSecreto = parseInt (Math.random () * numeroMaximo + 1);
 console.log (numeroSecreto);
 let chute;
